@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'ergo\'s blog',
   domain: 'https://charming-switch-d89.notion.site/Personal-Home-40c3f47289f5410b99929a9c2a3003d2',
-  author: 'Travis Fischer',
+  author: 'liuergo',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
