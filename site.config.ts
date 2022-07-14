@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '40c3f47289f5410b99929a9c2a3003d2',
+  rootNotionPageId: '8fe1cee4069947b7a86bb9297bcd0c92',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'ergo\'s blog',
-  domain: 'https://charming-switch-d89.notion.site/Personal-Home-40c3f47289f5410b99929a9c2a3003d2',
+  domain: 'https://charming-switch-d89.notion.site/ergo-s-blog-8fe1cee4069947b7a86bb9297bcd0c92',
   author: 'liuergo',
 
   // open graph metadata (optional)
